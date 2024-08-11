@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hasre\\OneDrive\\Masa\u00FCst\u00FC\\c#udemy\\sql_personel_kayit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{935E1B54-1EEE-47FF-88BF-9262B15DA445}|sql_personel_kayit\\sql_personel_kayit.csproj|c:\\users\\hasre\\onedrive\\masa\u00FCst\u00FC\\c#udemy\\sql_personel_kayit\\sql_personel_kayit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{935E1B54-1EEE-47FF-88BF-9262B15DA445}|sql_personel_kayit\\sql_personel_kayit.csproj|solutionrelative:sql_personel_kayit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{935E1B54-1EEE-47FF-88BF-9262B15DA445}|sql_personel_kayit\\sql_personel_kayit.csproj|C:\\Users\\hasre\\OneDrive\\Masa\u00FCst\u00FC\\c#udemy\\sql_personel_kayit\\sql_personel_kayit\\frmistatistik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{935E1B54-1EEE-47FF-88BF-9262B15DA445}|sql_personel_kayit\\sql_personel_kayit.csproj|solutionrelative:sql_personel_kayit\\frmistatistik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{935E1B54-1EEE-47FF-88BF-9262B15DA445}|sql_personel_kayit\\sql_personel_kayit.csproj|C:\\Users\\hasre\\OneDrive\\Masa\u00FCst\u00FC\\c#udemy\\sql_personel_kayit\\sql_personel_kayit\\girispanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{935E1B54-1EEE-47FF-88BF-9262B15DA445}|sql_personel_kayit\\sql_personel_kayit.csproj|solutionrelative:sql_personel_kayit\\girispanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{935E1B54-1EEE-47FF-88BF-9262B15DA445}|sql_personel_kayit\\sql_personel_kayit.csproj|C:\\Users\\hasre\\OneDrive\\Masa\u00FCst\u00FC\\c#udemy\\sql_personel_kayit\\sql_personel_kayit\\girispanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{935E1B54-1EEE-47FF-88BF-9262B15DA445}|sql_personel_kayit\\sql_personel_kayit.csproj|solutionrelative:sql_personel_kayit\\girispanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{935E1B54-1EEE-47FF-88BF-9262B15DA445}|sql_personel_kayit\\sql_personel_kayit.csproj|C:\\Users\\hasre\\OneDrive\\Masa\u00FCst\u00FC\\c#udemy\\sql_personel_kayit\\sql_personel_kayit\\frmistatistik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{935E1B54-1EEE-47FF-88BF-9262B15DA445}|sql_personel_kayit\\sql_personel_kayit.csproj|solutionrelative:sql_personel_kayit\\frmistatistik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{935E1B54-1EEE-47FF-88BF-9262B15DA445}|sql_personel_kayit\\sql_personel_kayit.csproj|C:\\Users\\hasre\\OneDrive\\Masa\u00FCst\u00FC\\c#udemy\\sql_personel_kayit\\sql_personel_kayit\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{935E1B54-1EEE-47FF-88BF-9262B15DA445}|sql_personel_kayit\\sql_personel_kayit.csproj|solutionrelative:sql_personel_kayit\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{935E1B54-1EEE-47FF-88BF-9262B15DA445}|sql_personel_kayit\\sql_personel_kayit.csproj|C:\\Users\\hasre\\OneDrive\\Masa\u00FCst\u00FC\\c#udemy\\sql_personel_kayit\\sql_personel_kayit\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{935E1B54-1EEE-47FF-88BF-9262B15DA445}|sql_personel_kayit\\sql_personel_kayit.csproj|solutionrelative:sql_personel_kayit\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Frmistatistik.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hasre\\OneDrive\\Masa\u00FCst\u00FC\\c#udemy\\sql_personel_kayit\\sql_personel_kayit\\Frmistatistik.cs",
+              "RelativeDocumentMoniker": "sql_personel_kayit\\Frmistatistik.cs",
+              "ToolTip": "C:\\Users\\hasre\\OneDrive\\Masa\u00FCst\u00FC\\c#udemy\\sql_personel_kayit\\sql_personel_kayit\\Frmistatistik.cs [Design]",
+              "RelativeToolTip": "sql_personel_kayit\\Frmistatistik.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T17:47:11.616Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Frmistatistik.cs",
+              "DocumentMoniker": "C:\\Users\\hasre\\OneDrive\\Masa\u00FCst\u00FC\\c#udemy\\sql_personel_kayit\\sql_personel_kayit\\Frmistatistik.cs",
+              "RelativeDocumentMoniker": "sql_personel_kayit\\Frmistatistik.cs",
+              "ToolTip": "C:\\Users\\hasre\\OneDrive\\Masa\u00FCst\u00FC\\c#udemy\\sql_personel_kayit\\sql_personel_kayit\\Frmistatistik.cs",
+              "RelativeToolTip": "sql_personel_kayit\\Frmistatistik.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T17:48:42.503Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hasre\\OneDrive\\Masa\u00FCst\u00FC\\c#udemy\\sql_personel_kayit\\sql_personel_kayit\\Program.cs",
+              "RelativeDocumentMoniker": "sql_personel_kayit\\Program.cs",
+              "ToolTip": "C:\\Users\\hasre\\OneDrive\\Masa\u00FCst\u00FC\\c#udemy\\sql_personel_kayit\\sql_personel_kayit\\Program.cs",
+              "RelativeToolTip": "sql_personel_kayit\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T16:53:50.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GirisPanel.cs",
+              "DocumentMoniker": "C:\\Users\\hasre\\OneDrive\\Masa\u00FCst\u00FC\\c#udemy\\sql_personel_kayit\\sql_personel_kayit\\GirisPanel.cs",
+              "RelativeDocumentMoniker": "sql_personel_kayit\\GirisPanel.cs",
+              "ToolTip": "C:\\Users\\hasre\\OneDrive\\Masa\u00FCst\u00FC\\c#udemy\\sql_personel_kayit\\sql_personel_kayit\\GirisPanel.cs",
+              "RelativeToolTip": "sql_personel_kayit\\GirisPanel.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T20:27:57.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GirisPanel.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\hasre\\OneDrive\\Masa\u00FCst\u00FC\\c#udemy\\sql_personel_kayit\\sql_personel_kayit\\GirisPanel.cs",
+              "RelativeDocumentMoniker": "sql_personel_kayit\\GirisPanel.cs",
+              "ToolTip": "C:\\Users\\hasre\\OneDrive\\Masa\u00FCst\u00FC\\c#udemy\\sql_personel_kayit\\sql_personel_kayit\\GirisPanel.cs [Tasar\u0131m]",
+              "RelativeToolTip": "sql_personel_kayit\\GirisPanel.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T20:18:51.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\hasre\\OneDrive\\Masa\u00FCst\u00FC\\c#udemy\\sql_personel_kayit\\sql_personel_kayit\\Form1.cs",
+              "RelativeDocumentMoniker": "sql_personel_kayit\\Form1.cs",
+              "ToolTip": "C:\\Users\\hasre\\OneDrive\\Masa\u00FCst\u00FC\\c#udemy\\sql_personel_kayit\\sql_personel_kayit\\Form1.cs",
+              "RelativeToolTip": "sql_personel_kayit\\Form1.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowCQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T18:17:05.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\hasre\\OneDrive\\Masa\u00FCst\u00FC\\c#udemy\\sql_personel_kayit\\sql_personel_kayit\\Form1.cs",
+              "RelativeDocumentMoniker": "sql_personel_kayit\\Form1.cs",
+              "ToolTip": "C:\\Users\\hasre\\OneDrive\\Masa\u00FCst\u00FC\\c#udemy\\sql_personel_kayit\\sql_personel_kayit\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "sql_personel_kayit\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T15:14:52.167Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
